@@ -1,4 +1,4 @@
-# Selenium_automation_base
+# Selenium_automation_base_framework
 
 This framework is developed in order to provide the features of selenium webdriver to the user with simplicity. Framework is organised and comprehensive.
 It follows the page object model and is compatible with java language. 
